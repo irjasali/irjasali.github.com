@@ -1,0 +1,126 @@
+
+body {
+    background-color:#dfe6e9;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.encabezado {
+  background-color: #7158e2;
+  padding: 16px;
+  text-align: center;
+  color: #fff;
+
+}
+.titulo1 {
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 27px;
+  color: #fff;
+ 
+}
+.titulo2 {
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+  font-weight: 200px;
+  color: #fff;
+}
+.titulo3 {
+  background-color: #ff4d4d;
+  text-align: center;
+  font-weight: bold;
+  padding: 16px;
+  color: #fff;
+
+}
+
+.seccion1 {
+  width: 960px;
+  margin: 0 auto;
+  padding: 0;
+}
+ 
+.puntos {
+  font-size: 21px;
+  font-weight: 100;
+  color:#30336b;
+  
+}
+
+.etiqueta1 {
+  width: 490px;
+  background-color: #fff;
+  padding: 10px 77px 13px 21px;
+  border-left: 7px solid #0984e3;
+  border-radius: 10px 10px ;
+  line-height: 1.6;
+  box-shadow: 5px 5px 5px #b2bec3;
+}
+.etiqueta2 {
+  width: 490px;
+  background-color: #fff;
+  padding: 10px 77px 13px 21px;
+  border-left: 7px solid #4834d4;
+  border-radius: 10px 10px ;
+  line-height: 1.6;
+  box-shadow: 5px 5px 5px #b2bec3;
+}
+
+.etiqueta3 {
+  width: 490px;
+  background-color: #fff;
+  padding: 10px 77px 13px 21px;
+  border-left: 7px solid #ff7979;
+  border-radius: 10px 10px ;
+  line-height: 1.6;
+  box-shadow: 5px 5px 5px #b2bec3;
+}
+
+
+.etiqueta1:hover {
+  box-shadow: 2px 2px 2px #636e72;
+  border-left: 9px solid #0984e3;
+  cursor: pointer;
+}
+.etiqueta2:hover {
+  box-shadow: 2px 2px 2px #636e72;
+  border-left: 9px solid #4834d4;
+  cursor: pointer;
+}
+
+.etiqueta3:hover {
+  box-shadow: 2px 2px 2px #636e72;
+  border-left: 9px solid #ff7979;
+  cursor: pointer;
+}
+
+dt {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #7158e2;
+  padding: 100px;
+  text-align: center;
+  color: #fff;
+  display: block;
+  
+}
+.pie {
+ 
+ 
+}
+
+.foto {
+  display: inline-block;  
+  width: 30%; 
+  
+}
+img {
+  border-radius: 50% ;
+  width: 200px;
+  float: right;
+}
